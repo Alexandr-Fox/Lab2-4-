@@ -1,0 +1,15 @@
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\bin\Debug\net6.0\Lab2_v10.exe
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\bin\Debug\net6.0\Lab2_v10.deps.json
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\bin\Debug\net6.0\Lab2_v10.runtimeconfig.json
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\bin\Debug\net6.0\Lab2_v10.dll
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\bin\Debug\net6.0\Lab2_v10.pdb
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\obj\Debug\net6.0\Lab2_v10.csproj.AssemblyReference.cache
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\obj\Debug\net6.0\Lab2_v10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\obj\Debug\net6.0\Lab2_v10.AssemblyInfoInputs.cache
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\obj\Debug\net6.0\Lab2_v10.AssemblyInfo.cs
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\obj\Debug\net6.0\Lab2_v10.csproj.CoreCompileInputs.cache
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\obj\Debug\net6.0\Lab2_v10.dll
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\obj\Debug\net6.0\refint\Lab2_v10.dll
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\obj\Debug\net6.0\Lab2_v10.pdb
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\obj\Debug\net6.0\Lab2_v10.genruntimeconfig.cache
+C:\Users\alros\source\repos\Lab2_v10\Lab2_v10\obj\Debug\net6.0\ref\Lab2_v10.dll
